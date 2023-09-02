@@ -39,7 +39,7 @@ def entrar_valor(e):
     valor_leitor.set(todos_valores)
 
 
-#funcao para calcular
+#funcao para calcula
 
 def calcular():
 
